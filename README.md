@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estudo para ser Desenvolver Mobile (Android)
 - 🌱 Aprendendo Kotlin e Java
-- 📫 Contate-me pelo e-mail: vladsoncl@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
