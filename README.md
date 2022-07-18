@@ -1,6 +1,6 @@
 ## Olá!! Eu sou Vladson Carlos, estudande de programação!
 
-- 🔭 Hoje estudo para ser Desenvolver Web.
+- 🔭 Hoje estudo para ser Desenvolvedor Web.
 - 🌱 Estou aprendendo TypeScript
 - 😄 Pronouns: ele/dele
 
