@@ -1,7 +1,7 @@
-### Olá!! Eu sou Vladson Carlos
+## Olá!! Eu sou Vladson Carlos, estudande de programação!
 
-- 🔭 Hoje estudo para ser Desenvolver Mobile (Android)
-- 🌱 Aprendendo Kotlin e Java
+- 🔭 Hoje estudo para ser Desenvolver Web.
+- 🌱 Estou aprendendo JavaScript e TypeScript
 - 😄 Pronouns: ele/dele
 
 <div align="center">
