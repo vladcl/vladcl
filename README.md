@@ -5,10 +5,8 @@
 - 😄 Pronouns: ele/dele
 
 
-  <a href="https://github.com/vladcl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vladcl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcl&layout=compact&langs_count=7&theme=github_dark"/>
-
+  <a href="https://github.com/vladcl/github-readme-stats"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=vladcl&show_icons=true&include_all_commits=true&theme=github_dark" alt="Anurag's github stats" /></a>
+  <a href="https://github.com/vladcl/github-readme-stats"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcl&layout=compact&theme=github_dark&card_width=240" /></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vlad-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
