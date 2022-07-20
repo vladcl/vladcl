@@ -5,10 +5,11 @@
 - 😄 Pronouns: ele/dele
 
 
-<div align = center>
-  <a href="https://github.com/vladcl"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vladcl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcl&layout=compact&langs_count=7&theme=github_dark"/>
+<div align="center">
+  <a href="https://github.com/vladlc">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vladcl&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcl&theme=github_dark&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
