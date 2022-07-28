@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend/web developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <a href="https://twitter.com/clrsv_" target="blank"><img src="https://img.shields.io/twitter/follow/clrsv_?logo=twitter&style=for-the-badge" alt="clrsv_" /></a> </p>
-
 - 🔭 I’m currently studying for **Web/Front-end Development**
 
 - 🌱 I’m currently learning **Typescript**
