@@ -22,11 +22,16 @@
   <img align="center" alt="Vlad-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
+##
+
 <div> 
   <a href="https://instagram.com/vladsoncl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vladsoncl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vladsoncl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/vladcl/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/vladsoncl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/vladcl/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
