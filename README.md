@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá, sou <a href="https://www.linkedin.com/in/vladsoncl/"><i>Vladson Carlos</i></a> 😎</h1>
-  <p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e também estudo desenvolvimento web.  
+  <p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e estou estudando Desenvolvimento Mobile (Android).
 </div>
 
 <div align="center">
